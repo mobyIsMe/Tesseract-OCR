@@ -2,13 +2,17 @@ Tesseract OCR iOS
 =================
 Support English and Chinese language, other language trained data can be downloaded from this link :https://github.com/mobyzhang/tessdata, just add the trained data files to the tessdata folder will be fine.
 
-
+Screenshots
+=================
+https://github.com/mobyzhang/Tesseract-OCR.git
+http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png
+![image](https://github.com/mobyzhang/Tesseract-OCR/raw/master/home.jpg)
+![image](https://github.com/mobyzhang/Tesseract-OCR/raw/master/camera.jpg)
+![image](https://github.com/mobyzhang/Tesseract-OCR/raw/master/ocr_result.jpg)
 
 More 
 =================
 The  introduction to OCR engine can be seen in the code folder. 
-
-
 
 License
 =================
