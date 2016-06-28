@@ -1,35 +1,12 @@
 Tesseract OCR iOS 
 =================
-[![Build Status](https://travis-ci.org/gali8/Tesseract-OCR-iOS.svg?branch=master)](https://travis-ci.org/gali8/Tesseract-OCR-iOS) [![Coverage Status](https://img.shields.io/coveralls/gali8/Tesseract-OCR-iOS.svg)](https://coveralls.io/r/gali8/Tesseract-OCR-iOS) [![](https://img.shields.io/cocoapods/v/TesseractOCRiOS.svg)](http://cocoapods.org/?q=tesseractocrios) [![](https://img.shields.io/cocoapods/p/TesseractOCRiOS.svg)](http://cocoapods.org/?q=tesseractocrios)  [![](https://img.shields.io/cocoapods/l/TesseractOCRiOS.svg)](https://github.com/gali8/Tesseract-OCR-iOS/blob/master/LICENSE.md) 
+Support English and Chinese language, other language trained data can be downloaded from this link :https://github.com/mobyzhang/tessdata, just add the trained data files to the tessdata folder will be fine.
 
-**Use Tesseract OCR in iOS 7.0+ projects written in either Objective-C or Swift.
-Easy and fast.**
 
-These are the current versions of the upstream bundled libraries within the framework that this repository provides:
 
-* Tesseract 3.03-rc1 ([homepage](https://code.google.com/p/tesseract-ocr/))
-* Leptonica 1.71 ([homepage](http://leptonica.org/))
-
-Getting Started
+More 
 =================
-See the [Installation](https://github.com/gali8/Tesseract-OCR-iOS/wiki/Installation) page in the wiki. Once you're setup see some [usage examples](https://github.com/gali8/Tesseract-OCR-iOS/wiki/Using-Tesseract-OCR-iOS).
-
-Known Limitations
-=================
-
-- No OS X support.
-- Strict requirement on language files existing in a referenced "tessdata" folder.
-
-Release Notes
-=================
-
-### 3.1.1 and greater
-
-See the [Releases](https://github.com/gali8/Tesseract-OCR-iOS/releases) page
-
-### Older releases
-
-See the [Release Notes wiki page](https://github.com/gali8/Tesseract-OCR-iOS/wiki/Release-Notes)
+The  introduction to OCR engine can be seen in the code folder. 
 
 
 
