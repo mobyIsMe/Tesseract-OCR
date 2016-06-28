@@ -4,8 +4,6 @@ Support English and Chinese language, other language trained data can be downloa
 
 Screenshots
 =================
-https://github.com/mobyzhang/Tesseract-OCR.git
-http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png
 ![image](https://github.com/mobyzhang/Tesseract-OCR/raw/master/home.jpg)
 ![image](https://github.com/mobyzhang/Tesseract-OCR/raw/master/camera.jpg)
 ![image](https://github.com/mobyzhang/Tesseract-OCR/raw/master/ocr_result.jpg)
